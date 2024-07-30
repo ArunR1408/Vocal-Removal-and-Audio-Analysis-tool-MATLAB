@@ -1,9 +1,3 @@
-%% 19EAC386 Speech Processing Project
-% Group Members:
-% Sreehari S -  AM.EN.U4ECE21154 
-% Malavika D -  AM.EN.U4EAC21131
-% Arun R     -  AM.EN.U4EAC21018
-% Devi L     -  AM.EN.U4EAC21026
 % Topic: Vocal Removal and Audio Analysis
   
 
